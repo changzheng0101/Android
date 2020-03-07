@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">智能家居</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">个人中心</string>
+    <string-array name="dashboard">
+        <item>常见问题</item>
+        <item>意见反馈</item>
+        <item>关于我们</item>
+    </string-array>
+    <string name="label1">常见问题</string>
+    <string name="label2">意见反馈</string>
+    <string name="label3">关于我们</string>
+    <string name="question_description">问题描述:</string>
+    <string name="feedback_hint">请描述您遇到的问题，我们将会仔细聆听和改进，不胜感激！</string>
+    <string name="feedback">提交反馈</string>
+    <string name="problem1">1.如何添加插座？</string>
+    <string name="problem2">2.插座离线了，怎么办？</string>
+    <string name="problem3">3.插座的状态无法与APP同步</string>
+    <string name="answer">************************************************************************************************
+    **********************************************************</string>
+</resources>
